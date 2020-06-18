@@ -1,3 +1,3 @@
 # hypermodern-python
 
-[Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+Learning [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
